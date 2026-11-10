@@ -1,0 +1,12 @@
+{
+  "name": "solvesahar-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive, bilingual-ready frontend for SolveSahar",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
